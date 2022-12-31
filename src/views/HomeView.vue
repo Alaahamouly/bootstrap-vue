@@ -4,6 +4,7 @@
     <ButtonComponent />
     <AlertComponent />
     <AspectComponent />
+    <AvatarComponent />
   </b-container>
   </div>
 </template>
@@ -13,13 +14,15 @@
 import ButtonComponent from '@/components/ButtonComponent.vue'
 import AlertComponent from '@/components/AlertComponent.vue'
 import AspectComponent from '@/components/AspectComponent.vue'
+import AvatarComponent from '@/components/AvatarComponent.vue'
 
 export default {
   name: 'HomeView',
   components: {
     ButtonComponent,
     AlertComponent,
-    AspectComponent
+    AspectComponent,
+    AvatarComponent
   }
 }
 </script>
