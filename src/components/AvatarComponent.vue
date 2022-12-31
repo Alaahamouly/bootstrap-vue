@@ -9,6 +9,7 @@
     <b-avatar icon="star-fill" size="3rem" class="me-2"></b-avatar>
     <b-avatar square size="3rem" class="me-2">Vue</b-avatar>
     <b-avatar rounded size="3rem" variant="primary" class="me-2"></b-avatar>
+    <b-avatar badge size="3rem" variant="primary" class="me-2"></b-avatar>
     
   </div>
 </template>
